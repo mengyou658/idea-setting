@@ -1,0 +1,28 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*Config.java</mask>
+    <mask>*Service.java</mask>
+    <mask>*.php</mask>
+    <mask>*Mapper.xml</mask>
+    <mask>*Base.java</mask>
+    <mask>*.gradle</mask>
+    <mask>*Controller.java</mask>
+    <mask>*.sh</mask>
+    <mask>*.ftl</mask>
+    <mask>*.conf</mask>
+    <mask>*.yml</mask>
+    <mask>*.js</mask>
+    <mask>*.vue</mask>
+    <mask>*.rs</mask>
+    <mask>pom.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+  </component>
+</application>

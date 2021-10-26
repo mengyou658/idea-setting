@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="x64 Native Tools Command Prompt for VS 2019" description="x64 Native Tools Command Prompt for VS 2019" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="cmd" />
+      <option name="PARAMETERS" value="/k &quot;H:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvars64.bat&quot;" />
+      <option name="WORKING_DIRECTORY" value="H:/Program Files (x86)/Microsoft Visual Studio/2019/Community/" />
+    </exec>
+  </tool>
+</toolSet>

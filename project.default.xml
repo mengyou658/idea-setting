@@ -1,0 +1,44 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="KotlinMultiplatform">
+        <allAvailableExecutables />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="vmOptionsForImporter" value="-Xmx768m" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="ProjectViewState">
+        <option name="autoscrollFromSource" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+        <option name="showMembers" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="D:/android-sdk" />
+        <property name="go.import.settings.migrated" value="true" />
+        <property name="last_opened_file_path" value="K:/work_java" />
+        <property name="settings.editor.selected.configurable" value="preferences.updates" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.4897059" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

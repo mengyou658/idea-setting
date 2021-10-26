@@ -1,0 +1,39 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="META-INF/native-image" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="pdm" type="Native" />
+      <mapping ext="exe" type="Native" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="native-image" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="店铺管理" type="PLAIN_TEXT" />
+      <mapping pattern="keep" type="PLAIN_TEXT" />
+      <mapping pattern="utput" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess" type="PLAIN_TEXT" />
+      <mapping pattern=".cargo/config" type="PLAIN_TEXT" />
+      <mapping pattern="ut-put" type="PLAIN_TEXT" />
+      <mapping ext="npy" type="PLAIN_TEXT" />
+      <mapping ext="geojson" type="PLAIN_TEXT" />
+      <mapping ext="wasm" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="url" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="Bat" />
+      <removed_mapping ext="cmd" approved="true" type="Batch" />
+      <removed_mapping ext="cmd" approved="true" type="Cmd" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="qrc" approved="true" type="XML" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
